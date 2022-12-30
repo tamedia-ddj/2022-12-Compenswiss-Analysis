@@ -1,0 +1,11 @@
+ISIN,Date,Name,Ticker,Wertpapiertyp,Emittent,Company Name,Vollständiger Name,Kurzname,Gruppe,Sektor,Untergruppe,Country (P),Country ISO,Land (Risiko),Sitzland,Asset Class,Description,Currency,Nominal/Quantity,Market Value CHF,Date,_merge
+XS2429878700,,,,,,OP YRITYSPANK,,,Banks,,,,,,,Money market Investments,0 OPCB 23 ECP,,USD 2'000'000,1903345,TRUE,right_only
+XS2435086652,,,,,,DNB Bank ASA,,,Banks,,,,,,,Money market Investments,0 DNBB 22 ECP,,EUR 3'000'000,3015160,TRUE,right_only
+FR0127437160,,,,,,Société Generale,,,Banks,,,,,,,Money market Investments,0 SG 23 ECP,,USD 1'000'000,957350,TRUE,right_only
+XS2451802925,,,,,,Svenska Handelsbanken AB,,,Banks,,,,,,,Money market Investments,0 SHB 22 ECP,,EUR 3'000'000,3010201,TRUE,right_only
+US42225P5017,,,,,,HEALTHCARE TRUST AME. HTA. ,,,Engineering&Construction (medical office building),,,,,,,Real Estate,HLTHC RLTY TR-A,,150246,4014519,FALSE,right_only
+US276480AE09,,,,,,Eastern Gas Transmission & Storage Inc ,,,Gas,,,,,,,Foreign Currency bonds,4.8 EAST 43NTS-144A,,USD 625'000,559122,FALSE,right_only
+FR0014009LO3,,,,,,EssilorLuxottica S.A,,,Healthcare-Products,,,,,,,Equities,ESSILOR RTS 22,,84465,0,TRUE,right_only
+DE000A3MQQ17,,,,,,Fresenius SE & Co. KGaA ,,,Healthcare-Products,,,,,,,Equities,FRESENI RTS.22,,125822,0,TRUE,right_only
+CA01626P3043,,,,,,Alimentation Couche-Tard Inc Share Price,,,Retail,,,,,,,Equities,ALIMENT COUCHE -A,,43286,1613004,FALSE,right_only
+CA87971M9969,,,,,,Telus,,,Telecommunications,,,,,,,Equities,TELUS NON-CDN,,23068,490835,FALSE,right_only
