@@ -12,3 +12,4 @@ Description des fichiers
 
 -un xlsx avec des données issues de Bloomberg<br>
 
+-un dossier avec les données et l'analyse du fonds Pictet
